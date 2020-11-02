@@ -28,7 +28,7 @@ We release a new question every month. These are open to everybody and you're we
 ## Submission
 
 - Please fork this repository and use that to work on your solutions to the challenges. 
-	- Follow the folder structure that you see here. For each challenge, create a directory in your repo called `challenge-xx/community`, where xx is the challenge number.
+	- Follow the folder structure that you see here. For each challenge, create a directory in your repo called `challenge-xx`, where xx is the challenge number.
 	- Under this directory, create a folder with your github username (all lowercase, separated-by-hyphens). Your solution goes into this directory.
 - If you complete a challenge and want to "submit" your solution, raise a Pull Request (PR) from your repo to ours. 
 - If your solutions works, we'll merge it to our repo.
