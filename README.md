@@ -8,7 +8,7 @@ Repository containing monthly challenges in quantum computing.
 
 **Release date**: November 2nd, 2020
 
-**Submission deadline (optional):** November 23nd, 2020
+**Submission deadline (optional):** November 23rd, 2020
 
 ## How it Works
 
