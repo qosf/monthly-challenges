@@ -1,7 +1,16 @@
-# monthly-challenges
+# QOSF Monthly Challenges
+
 Repository containing monthly challenges in quantum computing.
 
-## How it works
+## Current Challenge
+
+**Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
+
+**Release date**: November 2nd, 2020
+
+**Submission deadline (optional):** November 23rd, 2020
+
+## How it Works
 
 These challenges will help you hone your general quantum computing skills by tackling some problems.
 
@@ -19,8 +28,8 @@ We release a new question every month. These are open to everybody and you're we
 ## Submission
 
 - Please fork this repository and use that to work on your solutions to the challenges. 
-	- Follow the folder structure that you see here. For each challenge, create a folder in your repo called `challenge-xx`, where xx is the challenge number. 
-	- Under this folder, create another folder with your github username (all lowercase, separated-by-hyphens). Your solution goes into this directory.
+	- Follow the folder structure that you see here. For each challenge, create a directory in your repo called `challenge-xx`, where xx is the challenge number.
+	- Under this directory, create a folder with your github username (all lowercase, separated-by-hyphens). Your solution goes into this directory.
 - If you complete a challenge and want to "submit" your solution, raise a Pull Request (PR) from your repo to ours. 
 - If your solutions works, we'll merge it to our repo.
 - The best ones will be given a shout-out! 😃
@@ -35,7 +44,7 @@ We release a new question every month. These are open to everybody and you're we
 
 ## Communication
 
-- Slack: [#monthly-challenges](https://qosf.slack.com/archives/C01D2GB1DMM)
+- Please join the Slack channel for the challenge, where you can ask any questions you might have: [#monthly-challenges](https://qosf.slack.com/archives/C01D2GB1DMM)
 
 ## Git FAQ
 
