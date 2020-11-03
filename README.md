@@ -2,7 +2,7 @@
 
 Repository containing monthly challenges in quantum computing.
 
-## Challenge 01
+## Current Challenge
 
 **Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
 
