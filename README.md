@@ -4,11 +4,11 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
+**Link to Problem PDF**: [Challenge 02](./challenge-01/qosf-monthly-challenge-02.ipynb)
 
-**Release date**: November 2nd, 2020
+**Release date**: December 10th, 2020
 
-**Submission deadline (optional):** November 23rd, 2020
+**Submission deadline (optional):** January 9th, 2021
 
 ## How it Works
 
@@ -72,3 +72,11 @@ We release a new question every month. These are open to everybody and you're we
   
 
 Any other questions? Try the [GitHub documentation](https://docs.github.com/en) or ping us on Slack!
+
+## Previous Challenges
+
+**Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
+
+**Release date**: November 2nd, 2020
+
+**Submission deadline (optional):** November 23rd, 2020
