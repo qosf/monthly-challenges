@@ -4,7 +4,7 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem PDF**: [Challenge 02](./challenge-01/qosf-monthly-challenge-02.ipynb)
+**Link to Problem Notebook**: [Challenge 02](./challenge-02/qosf-monthly-challenge-02.ipynb)
 
 **Release date**: December 10th, 2020
 
