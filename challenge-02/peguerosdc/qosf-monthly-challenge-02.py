@@ -139,6 +139,9 @@ def calculate_ideal_amount_of_iterations(n, k=1):
     Calculates the ideal amount of Grover's iterations required for n qubits
     (assuming k solutions). See:
     https://en.wikipedia.org/wiki/Grover%27s_algorithm#Extension_to_space_with_multiple_targets
+    
+    If there are no solutions, no iterations are needed (but actually those iterations wouldn't
+    matter as they would just scramble the states)
 
     Args
     --------------------
@@ -146,23 +149,21 @@ def calculate_ideal_amount_of_iterations(n, k=1):
     k: amount of solutions
     """
     import math
-    ideal_amount = (math.pi/4)*( math.sqrt(2**n/k) )
-    # return closest integer
-    return round(ideal_amount)
+    # return closest integer to the ideal amount of calculations
+    return round((math.pi/4)*( math.sqrt(2**n/k) )) if k>0 else 0
 
-def challenge02(entries, iterations=None, solutions=1):
+def challenge02(entries, solutions):
+    """
+    Args
+    --------------------
+    entries: list of binary strings
+    solutions: list with the amount of solutions to expect for each Hamming distance 0,1,2,...,len(entries[0]-1)
+    """
     # Get number of qubits required to represent the entries
     n = len(entries[0])
     # Get the number of qubits required to store the hamming distances
     import math
     nh = math.ceil(math.log2(n+1))
-    # Calculate the ideal amount of iterations required for Grover's Algorithm if
-    # no amount of iterations is passed.
-    # TODO: how to extend this to the case where we don't know the amount of solutions
-    # to look for? See Wikipedia for some suggestions
-    if iterations is None:
-        iterations = calculate_ideal_amount_of_iterations(2*n, solutions)
-    print(f"Creating circuit with {iterations} iterations")
     # Create quantum circuit
     d0 = QuantumRegister(n,name="digits0")
     d1 = QuantumRegister(n,name="digits1")
@@ -178,32 +179,37 @@ def challenge02(entries, iterations=None, solutions=1):
     qc.h( d0[:] + d1[:] )
     qc.barrier()
 
-    # Amplify the pair(s) with HammingDistance=1 (which is the minimum possible)
-    # TODO: how to extend this (or use a completely different approach) to consider the
-    # case where the minimum distance is not known (i.e. it could be 2 instead of 1)?
-    distance = bin(1)[2:].zfill(nh)
+    # Amplify the pair(s) with the minimum Hamming distance using Grover's algorithm
+    distances = [bin(i)[2:].zfill(nh) for i in range(0,n)]
     # Perform Grover's algorithm
-    for i in range(iterations):
-        # Mark the pairs that are in the input
-        qc.append( find_pairs(entries,n), d0[:] + d1[:] + is_pair[:] + ancilla[:] )
-        # Calculate the hamming distances between each pair
-        qc.append( hamming_calculator(n), d0[:] + d1[:] + hamming[:] + ancilla[:nh-2] )
+    for d, distance in enumerate(distances):
+        # Calculate the ideal amount of iterations required for Grover's Algorithm given
+        # the amount of solutions.
+        # TODO: how to extend this to the case where we don't know the amount of solutions
+        # to look for? See Wikipedia for some suggestions
+        iterations = calculate_ideal_amount_of_iterations(2*n, solutions[d])
+        print(f"Iterating {iterations} times for distance {distance}")
+        for i in range(iterations):
+            # Mark the pairs that are in the input
+            qc.append( find_pairs(entries,n), d0[:] + d1[:] + is_pair[:] + ancilla[:] )
+            # Calculate the hamming distances between each pair
+            qc.append( hamming_calculator(n), d0[:] + d1[:] + hamming[:] + ancilla[:nh-2] )
 
-        # Mark the states that are a valid pair AND have the minimum amount of ones
-        qc.x([ hamming[k] for k,digit in enumerate(distance) if digit=='0' ])
-        qc.h(oracle)
-        qc.mct(is_pair[:] + hamming[:], oracle, ancilla, mode="basic" )
-        qc.h(oracle)
-        qc.x([ hamming[k] for k,digit in enumerate(distance) if digit=='0' ])
+            # Mark the states that are a valid pair AND have the minimum amount of ones
+            qc.x([ hamming[k] for k,digit in enumerate(distance) if digit=='0' ])
+            qc.h(oracle)
+            qc.mct(is_pair[:] + hamming[:], oracle, ancilla, mode="basic" )
+            qc.h(oracle)
+            qc.x([ hamming[k] for k,digit in enumerate(distance) if digit=='0' ])
 
-        # Uncompute distances
-        qc.append( hamming_calculator(n).inverse(), d0[:] + d1[:] + hamming[:] + ancilla[:nh-2] )
-        # Uncompute pairing mark
-        qc.append( find_pairs(entries,n).inverse(), d0[:] + d1[:] + is_pair[:] + ancilla[:] )
+            # Uncompute distances
+            qc.append( hamming_calculator(n).inverse(), d0[:] + d1[:] + hamming[:] + ancilla[:nh-2] )
+            # Uncompute pairing mark
+            qc.append( find_pairs(entries,n).inverse(), d0[:] + d1[:] + is_pair[:] + ancilla[:] )
 
-        # diffuse
-        qc.append( diffuser(2*n, 2*n-2), d0[:] + d1[:] + ancilla[:] )
-        qc.barrier()
+            # diffuse
+            qc.append( diffuser(2*n, 2*n-2), d0[:] + d1[:] + ancilla[:] )
+            qc.barrier()
 
     # Measure
     qc.measure(d0[:] + d1[:], bits)
@@ -213,8 +219,7 @@ if __name__ == '__main__':
     # Create circuit with the ideal amount of iterations
     # ['00000','00001','11000','11010']
     entries = ['0000','1001','1100','1101']
-    n = len(entries[0])
-    circuit = challenge02(entries, solutions=2)
+    circuit = challenge02(entries, solutions=[0,2,3,1])
     circuit.draw()
     # Get backend and run job
     backend = Aer.get_backend('qasm_simulator')
