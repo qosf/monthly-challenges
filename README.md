@@ -4,11 +4,11 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
+**Link to Problem Notebook**: [Challenge 02](https://nbviewer.jupyter.org/github/qosf/monthly-challenges/blob/main/challenge-02/qosf-monthly-challenge-02.ipynb)
 
-**Release date**: November 2nd, 2020
+**Release date**: December 10th, 2020
 
-**Submission deadline (optional):** November 23rd, 2020
+**Submission deadline (optional):** January 9th, 2021
 
 ## How it Works
 
@@ -22,8 +22,7 @@ We release a new question every month. These are open to everybody and you're we
 ## Tentative Timeline
 
 - We will try and release each challenge on the same date every month.
-- You get a month's time to solve each question, but if you wish to have your solution reviewed please aim to submit your solution within the first 2 or 3 weeks.
-- To avoid any confusion, please refrain from *submitting* solutions to old questions. You're welcome to try them out though!
+- You get a month's time to solve each question, but if you wish to have your solution reviewed please aim to submit your solution within the first 2 or 3 weeks (to allow for sufficient time for reviews).
 
 ## Submission
 
@@ -73,3 +72,11 @@ We release a new question every month. These are open to everybody and you're we
   
 
 Any other questions? Try the [GitHub documentation](https://docs.github.com/en) or ping us on Slack!
+
+## Previous Challenges
+
+**Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
+
+**Release date**: November 2nd, 2020
+
+**Submission deadline (optional):** November 23rd, 2020
