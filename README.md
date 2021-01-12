@@ -75,13 +75,13 @@ Any other questions? Try the [GitHub documentation](https://docs.github.com/en) 
 
 ## Previous Challenges
 
-[Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
-Release date: November 2nd, 2020
+[Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf) 
+Release date: November 2nd, 2020 
 Submission deadline (optional): November 23rd, 2020
 
 ---
 
-[Challenge 02](./challenge-02/qosf-monthly-challenge-02.pdf)
-Release date: December 10th, 2020
+[Challenge 02](./challenge-02/qosf-monthly-challenge-02.pdf) 
+Release date: December 10th, 2020 
 Submission deadline (optional): Janunary 9th, 2021
 
