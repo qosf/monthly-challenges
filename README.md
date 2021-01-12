@@ -80,3 +80,10 @@ Any other questions? Try the [GitHub documentation](https://docs.github.com/en) 
 **Release date**: November 2nd, 2020
 
 **Submission deadline (optional):** November 23rd, 2020
+
+**Link to Problem PDF**: [Challenge 02](./challenge-02/qosf-monthly-challenge-02.pdf)
+
+**Release date**: December 9th, 2020
+
+**Submission deadline (optional):** Janunary 10th, 2021
+
