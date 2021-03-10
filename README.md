@@ -4,11 +4,11 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem Notebook**: [Challenge 02](https://nbviewer.jupyter.org/github/qosf/monthly-challenges/blob/main/challenge-02/qosf-monthly-challenge-02.ipynb)
+**Link to Problem Notebook**: [Challenge 04](https://github.com/qosf/monthly-challenges/blob/main/challenge-04/qosf-monthly-challenge-04.ipynb)
 
-**Release date**: December 10th, 2020
+**Release date**: February 18th, 2021 (originally January 25th, 2021 via QOSF mentorship tasks)
 
-**Submission deadline (optional):** January 9th, 2021
+**Submission deadline (optional):** March 17th, 2021
 
 ## How it Works
 
@@ -38,8 +38,7 @@ We release a new question every month. These are open to everybody and you're we
 
 - We want this to be a community driven project, so evaluation will be in the form of peer reviews.
 - *Please* take some time to go through other solutions and provide your feedback! The only way this will work well is if we learn from each other. 
-- If you like a solution, please leave an emoji reaction (a positive one!) on the PR. We will probably use this to pick the best submissions.
-- We will also send out a poll where you can pick your favorite submission. Please vote!
+- If you like a solution, please leave an emoji reaction with a 👍 on the PR. We need some feedback for picking the best submissions.
 
 ## Communication
 
@@ -75,8 +74,19 @@ Any other questions? Try the [GitHub documentation](https://docs.github.com/en) 
 
 ## Previous Challenges
 
-**Link to Problem PDF**: [Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)
+<!-- use two spaces after each line to have line breaks -->  
+[Challenge 01](./challenge-01/qosf-monthly-challenge-01.pdf)  
+Release date: November 2nd, 2020  
+Submission deadline (optional): November 23rd, 2020   
 
-**Release date**: November 2nd, 2020
+---
 
-**Submission deadline (optional):** November 23rd, 2020
+[Challenge 02](./challenge-02/qosf-monthly-challenge-02.ipynb)  
+Release date: December 10th, 2020   
+Submission deadline (optional): January 9th, 2021  
+
+---
+
+[Challenge 03](./challenge-03/qosf-monthly-challenge-03.ipynb)  
+Release date: January 10th, 2020  
+Submission deadline (optional): February 9th, 2021  
