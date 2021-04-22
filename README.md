@@ -4,11 +4,11 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem Notebook**: [Challenge 05](challenge-05/qosf-monthly-challenge-05.ipynb)
+**Link to Problem Notebook**: [Challenge 06](challenge-06/qosf-monthly-challenge-06.ipynb)
 
-**Release date**: March 19th, 2021
+**Release date**: April 22nd, 2021
 
-**Submission deadline (optional):** April 18th, 2021
+**Submission deadline (optional):** May 21st, 2021
 
 ## How it Works
 
@@ -96,3 +96,9 @@ Submission deadline (optional): February 9th, 2021
 [Challenge 04](challenge-04/qosf-monthly-challenge-04.ipynb)  
 Release date: February 18th, 2021  
 Submission deadline (optional): March 17th, 2021  
+
+---
+
+[Challenge 05](challenge-05/qosf-monthly-challenge-05.ipynb)  
+Release date: March 19th, 2021  
+Submission deadline (optional): April 18th, 2021 
