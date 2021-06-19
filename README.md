@@ -4,11 +4,11 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem Notebook**: [Challenge 07](challenge-07/qosf-monthly-challenge-07.ipynb) - unitaryHACK!
+**Link to Problem Notebook**: [Challenge 08](challenge-08/qosf-monthly-challenge-08.ipynb) - k-Nearest Neighbors
 
-**Release date**: May 14th, 2021
+**Release date**: June 19th, 2021
 
-**Submission deadline (optional):** May 30th, 2021
+**Submission deadline (optional):** July 17th, 2021
 
 ## How it Works
 
@@ -108,3 +108,9 @@ Submission deadline (optional): April 18th, 2021
 [Challenge 06](challenge-06/qosf-monthly-challenge-06.ipynb): Mermin-Peres Magic Square Game  
 Release date: April 22nd, 2021  
 Submission deadline (optional): May 21st, 2021  
+
+---
+
+[Challenge 07](challenge-07/qosf-monthly-challenge-07.ipynb): unitaryHACK!  
+Release date: May 14th, 2021  
+Submission deadline (optional): May 30th, 2021    
