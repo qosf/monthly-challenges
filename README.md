@@ -4,11 +4,11 @@ Repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem Notebook**: [Challenge 08](challenge-08/qosf-monthly-challenge-08.ipynb) - k-Nearest Neighbors
+**Link to Problem Notebook**: [July 2021 Challenge](challenge-2021.07-jul/challenge-2021.07-jul.ipynb) - Quantum State Tomography
 
-**Release date**: June 19th, 2021
+**Release date**: July 21st, 2021
 
-**Submission deadline (optional):** July 17th, 2021
+**Submission deadline (optional):** August 18th, 2021
 
 ## How it Works
 
@@ -75,42 +75,48 @@ Any other questions? Try the [GitHub documentation](https://docs.github.com/en) 
 ## Previous Challenges
 
 <!-- use two spaces after each line to have line breaks -->  
-[Challenge 01](challenge-01/qosf-monthly-challenge-01.pdf): Diagonal Unitaries  
+[November 2020 Challenge](challenge-2020.11-nov/challenge-2020.11-nov.pdf): Diagonal Unitaries  
 Release date: November 2nd, 2020  
 Submission deadline (optional): November 23rd, 2020   
 
 ---
 
-[Challenge 02](challenge-02/qosf-monthly-challenge-02.ipynb): Minimum Hamming Distance  
+[December 2020 Challenge](challenge-2020.12-dec/challenge-2020.12-dec.ipynb): Minimum Hamming Distance  
 Release date: December 10th, 2020   
 Submission deadline (optional): January 9th, 2021  
 
 ---
 
-[Challenge 03](challenge-03/qosf-monthly-challenge-03.ipynb): Minimum Makespan    
+[January 2021 Challenge](challenge-2021.01-jan/challenge-2021.01-jan.ipynb): Minimum Makespan    
 Release date: January 10th, 2020  
 Submission deadline (optional): February 9th, 2021  
 
 ---
 
-[Challenge 04](challenge-04/qosf-monthly-challenge-04.ipynb): QOSF Mentorship Screening Tasks  
+[February 2021 Challenge](challenge-2021.02-feb/challenge-2021.02-feb.ipynb): QOSF Mentorship Screening Tasks  
 Release date: February 18th, 2021  
 Submission deadline (optional): March 17th, 2021  
 
 ---
 
-[Challenge 05](challenge-05/qosf-monthly-challenge-05.ipynb): Quantum Autoencoders (QML)  
+[March 2021 Challenge](challenge-2021.03-mar/challenge-2021.03-mar.ipynb): Quantum Autoencoders (QML)  
 Release date: March 19th, 2021  
 Submission deadline (optional): April 18th, 2021  
 
 ---
 
-[Challenge 06](challenge-06/qosf-monthly-challenge-06.ipynb): Mermin-Peres Magic Square Game  
+[April 2021 Challenge](challenge-2021.04-apr/challenge-2021.04-apr.ipynb): Mermin-Peres Magic Square Game  
 Release date: April 22nd, 2021  
 Submission deadline (optional): May 21st, 2021  
 
 ---
 
-[Challenge 07](challenge-07/qosf-monthly-challenge-07.ipynb): unitaryHACK!  
+[May 2021 Challenge](challenge-2021.05-may/challenge-2021.05-may.ipynb): unitaryHACK!  
 Release date: May 14th, 2021  
 Submission deadline (optional): May 30th, 2021    
+
+---
+
+[June 2021 Challenge](challenge-2021.06-jun/challenge-2021.06-jun.ipynb): k-Nearest Neighbors  
+Release date: June 19th, 2021  
+Submission deadline (optional): July 17th, 2021    

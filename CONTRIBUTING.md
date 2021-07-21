@@ -4,7 +4,7 @@ Contributions are welcome in the form of future challenges or challenge submissi
 
 ## Challenge contributions
 
-One of our previous [challenges](challenge-07/qosf-monthly-challenge-07.ipynb) is actually a manifestation of this doc, but we will copy the salient points here for completeness (the more of these the better):
+One of our previous [challenges](challenge-2021.05-may/challenge-2021.05-may.ipynb) is actually a manifestation of this doc, but we will copy the salient points here for completeness (the more of these the better):
 - Preferably a topic that isn't something we've already covered in past challenges
 - Can be completed in a reasonable amount of time for at least the first task (< 4 hours)
 - Doesn't require too much prior knowledge since the point is to educate through the challenge
