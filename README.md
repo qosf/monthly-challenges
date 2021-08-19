@@ -1,38 +1,40 @@
 # QOSF Monthly Challenges
 
-Repository containing monthly challenges in quantum computing.
+A repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Problem Notebook**: [July 2021 Challenge](challenge-2021.07-jul/challenge-2021.07-jul.ipynb) - Quantum State Tomography
+**Link to Challenge Notebook**: [August 2021 Challenge](challenge-2021.07-aug/challenge-2021.07-aug.ipynb) - W states
 
-**Release date**: July 21st, 2021
+**Release date**: August 19th, 2021  
+**Submission deadline (optional):** September 16, 2021
 
-**Submission deadline (optional):** August 18th, 2021
+You can see previous challenges [here](#previous-challenges).
 
 ## How it Works
 
-These challenges will help you hone your general quantum computing skills by tackling some problems.
+These challenges will help you hone your quantum computing skills by being exposed to a variety of problems in different areas.
 
-We release a new question every month. These are open to everybody and you're welcome to try your hand at solving them either individually or as a team.   
-- You are free to use any framework that you like, and submit your solutions in any format. Just make sure they're easy to evaluate.
+We release a new challenge every month that are open to anyone and everyone. You're welcome to try your hand at solving them individually or as a team.   
 
-**You're also welcome to *contribute* challenge questions! Open an issue on this repo and describe the question, we'll take a look at it!** 
+You are free to use any framework that you like and submit your solutions in any format. Just make sure that they're easy to evaluate.
+
+**You're also welcome to *contribute* challenges! Open an issue on this repo and describe your idea and we'll be happy to take a look at it!** 
 
 ## Tentative Timeline
 
-- We will try and release each challenge on the same date every month.
-- You get a month's time to solve each question, but if you wish to have your solution reviewed please aim to submit your solution within the first 2 or 3 weeks (to allow for sufficient time for reviews).
+- We try and release each challenge on the same date every month, but some times this varies (hey, we're all volunteers).
+- You get a month's time to solve each challenge, but if you wish to have your solution reviewed please aim to submit your solution within the first 2 or 3 weeks (to allow for sufficient time for reviews).
 
 ## Submission
 
 - Please fork this repository and use that to work on your solutions to the challenges. 
-	- Follow the folder structure that you see here. For each challenge, create a directory in your repo called `challenge-xx`, where xx is the challenge number.
-	- Under this directory, create a folder with your github username (all lowercase, separated-by-hyphens). Your solution goes into this directory.
+	- Under the challenge directory you wish to attempt to solve, create a folder with your github username (all lowercase, separated-by-hyphens). Your solution goes into this directory. Look at prior submissions for examples if you are not clear on this.
+	- Do not delete or modify any of the original challenge files since this will show up when you submit your solution.
 - If you complete a challenge and want to "submit" your solution, raise a Pull Request (PR) from your repo to ours. 
-- If your solutions works, we'll merge it to our repo.
-- The best ones will be given a shout-out! 😃
-- Note that if you're working as a team, it is sufficient to submit just one PR.
+- **After you submit your PR, you must find at least one other reviewer to review your work**. Your reviewer could be a fellow challenge submitter (trade off reviews!), reach out individually to another community member on Slack, or post in the [#monthly-challenges](https://qosf.slack.com/archives/C01D2GB1DMM) channel asking for a review.
+- We will give shout-outs to the best submissions! 😃
+- Note that if you're working as a team, it is sufficient to submit just one PR. Please make sure to have all of your teammates properly credited in your solution.
 
 ## Evaluation
 
@@ -42,7 +44,7 @@ We release a new question every month. These are open to everybody and you're we
 
 ## Communication
 
-- Please join the Slack channel for the challenge, where you can ask any questions you might have: [#monthly-challenges](https://qosf.slack.com/archives/C01D2GB1DMM)
+- Please join the [#monthly-challenges](https://qosf.slack.com/archives/C01D2GB1DMM) Slack channel for the challenge where you can share ideas with others and ask any questions you might have.
 
 ## Git FAQ
 
@@ -119,4 +121,10 @@ Submission deadline (optional): May 30th, 2021
 
 [June 2021 Challenge](challenge-2021.06-jun/challenge-2021.06-jun.ipynb): k-Nearest Neighbors  
 Release date: June 19th, 2021  
-Submission deadline (optional): July 17th, 2021    
+Submission deadline (optional): July 17th, 2021  
+
+---
+
+[July 2021 Challenge](challenge-2021.07-jul/challenge-2021.07-jul.ipynb): Quantum State Tomography  
+Release date: July 21st, 2021  
+Submission deadline (optional): August 18th, 2021  
