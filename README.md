@@ -4,7 +4,7 @@ A repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Challenge Notebook**: [August 2021 Challenge](challenge-2021.07-aug/challenge-2021.07-aug.ipynb) - W states
+**Link to Challenge Notebook**: [August 2021 Challenge](challenge-2021.08-aug/challenge-2021.08-aug.ipynb) - W states
 
 **Release date**: August 19th, 2021  
 **Submission deadline (optional):** September 16, 2021
