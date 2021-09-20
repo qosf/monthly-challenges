@@ -4,10 +4,10 @@ A repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**Link to Challenge Notebook**: [August 2021 Challenge](challenge-2021.08-aug/challenge-2021.08-aug.ipynb) - W states
+**[September 2021 Challenge](challenge-2021.09-sep/challenge-2021.09-asep.ipynb)** - Mentorship Screening Tasks
 
-**Release date**: August 19th, 2021  
-**Submission deadline (optional):** September 16, 2021
+**Release date**: September 19, 2021  
+**Submission deadline (optional):** October 17, 2021 (no PRs until after the September 29th application deadline)
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -79,52 +79,48 @@ Any other questions? Try the [GitHub documentation](https://docs.github.com/en) 
 <!-- use two spaces after each line to have line breaks -->  
 [November 2020 Challenge](challenge-2020.11-nov/challenge-2020.11-nov.pdf): Diagonal Unitaries  
 Release date: November 2nd, 2020  
-Submission deadline (optional): November 23rd, 2020   
 
 ---
 
 [December 2020 Challenge](challenge-2020.12-dec/challenge-2020.12-dec.ipynb): Minimum Hamming Distance  
 Release date: December 10th, 2020   
-Submission deadline (optional): January 9th, 2021  
 
 ---
 
 [January 2021 Challenge](challenge-2021.01-jan/challenge-2021.01-jan.ipynb): Minimum Makespan    
 Release date: January 10th, 2020  
-Submission deadline (optional): February 9th, 2021  
 
 ---
 
 [February 2021 Challenge](challenge-2021.02-feb/challenge-2021.02-feb.ipynb): QOSF Mentorship Screening Tasks  
 Release date: February 18th, 2021  
-Submission deadline (optional): March 17th, 2021  
 
 ---
 
 [March 2021 Challenge](challenge-2021.03-mar/challenge-2021.03-mar.ipynb): Quantum Autoencoders (QML)  
 Release date: March 19th, 2021  
-Submission deadline (optional): April 18th, 2021  
 
 ---
 
 [April 2021 Challenge](challenge-2021.04-apr/challenge-2021.04-apr.ipynb): Mermin-Peres Magic Square Game  
 Release date: April 22nd, 2021  
-Submission deadline (optional): May 21st, 2021  
 
 ---
 
 [May 2021 Challenge](challenge-2021.05-may/challenge-2021.05-may.ipynb): unitaryHACK!  
 Release date: May 14th, 2021  
-Submission deadline (optional): May 30th, 2021    
 
 ---
 
 [June 2021 Challenge](challenge-2021.06-jun/challenge-2021.06-jun.ipynb): k-Nearest Neighbors  
 Release date: June 19th, 2021  
-Submission deadline (optional): July 17th, 2021  
 
 ---
 
 [July 2021 Challenge](challenge-2021.07-jul/challenge-2021.07-jul.ipynb): Quantum State Tomography  
 Release date: July 21st, 2021  
-Submission deadline (optional): August 18th, 2021  
+
+---
+
+[August 2021 Challenge](challenge-2021.08-aug/challenge-2021.08-aug.ipynb): W States  
+Release date: August 19th, 2021  
