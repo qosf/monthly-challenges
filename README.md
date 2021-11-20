@@ -125,6 +125,7 @@ Release date: July 21st, 2021
 [August 2021 Challenge](challenge-2021.08-aug/challenge-2021.08-aug.ipynb): W States  
 Release date: August 19th, 2021  
 
+---
 
 [September 2021 Challenge](challenge-2021.09-sep/challenge-2021.09-sep.ipynb): Mentorship Screening Tasks
 Release date: September 19th, 2021  
