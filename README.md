@@ -4,10 +4,10 @@ A repository containing monthly challenges in quantum computing.
 
 ## Current Challenge
 
-**[September 2021 Challenge](challenge-2021.09-sep/challenge-2021.09-sep.ipynb)** - Mentorship Screening Tasks
+**[November 2021 Challenge](challenge-2021.21-nov/challenge-2021.21-nov.ipynb)** - Mentorship Screening Tasks
 
-**Release date**: September 19, 2021  
-**Submission deadline (optional):** October 17, 2021 (no PRs until after the September 29th application deadline)
+**Release date**: November 21, 2021  
+**Submission deadline (optional):** December 17, 2021 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -124,3 +124,8 @@ Release date: July 21st, 2021
 
 [August 2021 Challenge](challenge-2021.08-aug/challenge-2021.08-aug.ipynb): W States  
 Release date: August 19th, 2021  
+
+---
+
+[September 2021 Challenge](challenge-2021.09-sep/challenge-2021.09-sep.ipynb): Mentorship Screening Tasks
+Release date: September 19th, 2021  
