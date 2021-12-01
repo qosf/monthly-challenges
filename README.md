@@ -1,13 +1,13 @@
 # QOSF Monthly Challenges
 
-A repository containing monthly challenges in quantum computing.
+A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[September 2021 Challenge](challenge-2021.09-sep/challenge-2021.09-sep.ipynb)** - Mentorship Screening Tasks
+**[December 2021 Challenge](challenge-2021.12-dec/challenge-2021.12-dec.ipynb)** - Morphological Operators
 
-**Release date**: September 19, 2021  
-**Submission deadline (optional):** October 17, 2021 (no PRs until after the September 29th application deadline)
+**Release date**: December 1, 2021  
+**Submission deadline (optional):** December 31, 2021 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -23,7 +23,7 @@ You are free to use any framework that you like and submit your solutions in any
 
 ## Tentative Timeline
 
-- We try and release each challenge on the same date every month, but some times this varies (hey, we're all volunteers).
+- We try and release each challenge on the same date every month, but sometimes this varies (hey, we're all volunteers).
 - You get a month's time to solve each challenge, but if you wish to have your solution reviewed please aim to submit your solution within the first 2 or 3 weeks (to allow for sufficient time for reviews).
 
 ## Submission
@@ -124,3 +124,8 @@ Release date: July 21st, 2021
 
 [August 2021 Challenge](challenge-2021.08-aug/challenge-2021.08-aug.ipynb): W States  
 Release date: August 19th, 2021  
+
+---
+
+[September 2021 Challenge](challenge-2021.09-sep/challenge-2021.09-sep.ipynb): Mentorship Screening Tasks  
+Release date: September 19th, 2021  
