@@ -132,5 +132,5 @@ Release date: September 19th, 2021
 
 ---
 
-[December 2021 Challenge](challenge-2021.12-dec/challenge-2021.12-dec.ipynb): Mentorship Screening Tasks  
+[December 2021 Challenge](challenge-2021.12-dec/challenge-2021.12-dec.ipynb): Morphological Operators
 Release date: December 1th, 2021  
