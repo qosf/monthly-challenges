@@ -7,7 +7,7 @@ A repository containing monthly challenges in the field of quantum computing.
 **[January 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb)** - Decompose
 
 **Release date**: January 11, 2022  
-**Submission deadline (optional):** Febraury 11, 2022 
+**Submission deadline (optional):** February 11, 2022 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -132,5 +132,5 @@ Release date: September 19th, 2021
 
 ---
 
-[December 2021 Challenge](challenge-2021.12-dec/challenge-2021.12-dec.ipynb): Morphological Operators
+[December 2021 Challenge](challenge-2021.12-dec/challenge-2021.12-dec.ipynb): Morphological Operators  
 Release date: December 1th, 2021  
