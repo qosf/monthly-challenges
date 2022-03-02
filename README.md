@@ -4,7 +4,7 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[March 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb)** - QOSF Mentorship Screening Tasks
+**[March 2022 Challenge](challenge-2022.03-mar/challenge-2022.03-mar.ipynb)** - QOSF Mentorship Screening Tasks
 
 **Release date**: March 2, 2022  
 **Submission deadline (optional):** April 2, 2022 
