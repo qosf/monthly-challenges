@@ -137,5 +137,5 @@ Release date: December 1th, 2021
 
 ---
 
-[January 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb): Decompose
+[January 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb): Decompose  
 Release date: January 11th, 2022  
