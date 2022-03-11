@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[January 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb)** - Decompose
+**[March 2022 Challenge](challenge-2022.03-mar/challenge-2022.03-mar.ipynb)** - QOSF Mentorship Screening Tasks
 
-**Release date**: January 11, 2022  
-**Submission deadline (optional):** February 11, 2022 
+**Release date**: March 2, 2022  
+**Submission deadline (optional):** April 2, 2022 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -134,3 +134,8 @@ Release date: September 19th, 2021
 
 [December 2021 Challenge](challenge-2021.12-dec/challenge-2021.12-dec.ipynb): Morphological Operators  
 Release date: December 1th, 2021  
+
+---
+
+[January 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb): Decompose  
+Release date: January 11th, 2022  
