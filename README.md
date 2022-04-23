@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[March 2022 Challenge](challenge-2022.03-mar/challenge-2022.03-mar.ipynb)** - QOSF Mentorship Screening Tasks
+**[April 2022 Challenge](challenge-2022.04-apr/challenge-2022.04-apr.ipynb)** - Finding the way out of the maze
 
-**Release date**: March 2, 2022  
-**Submission deadline (optional):** April 2, 2022 
+**Release date**: April 18, 2022  
+**Submission deadline (optional):** May 18, 2022 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -139,3 +139,8 @@ Release date: December 1th, 2021
 
 [January 2022 Challenge](challenge-2022.01-jan/challenge-2022.01-jan.ipynb): Decompose  
 Release date: January 11th, 2022  
+
+---
+
+[March 2022 Challenge](challenge-2022.03-mar/challenge-2022.03-mar.ipynb): QOSF Mentorship Screening Tasks  
+Release date: March 2th, 2022  
