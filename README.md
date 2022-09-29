@@ -11,6 +11,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 You can see previous challenges [here](#previous-challenges).
 
+Clone this repository into your qBraid account: 
+
+[<img src="https://qbraid-static.s3.amazonaws.com/logos/Launch_on_qBraid_white.png" width="150">](https://account.qbraid.com?gitHubUrl=https://github.com/qosf/monthly-challenges.git)
+
 ## How it Works
 
 These challenges will help you hone your quantum computing skills by being exposed to a variety of problems in different areas.
