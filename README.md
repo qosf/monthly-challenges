@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[July 2022 Challenge](challenge-2022.07-jul/challenge-2022.07-jul.ipynb)** - Palindrome Integer
+**[October 2022 Challenge](challenge-2022.10-oct/challenge-2022.10-oct.ipynb)** - Palindrome Integer
 
-**Release date**: July 1, 2022  
-**Submission deadline (optional):** August 1, 2022 
+**Release date**: October 15, 2022  
+**Submission deadline (optional):** November 15, 2022 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -152,4 +152,7 @@ Release date: March 2th, 2022
 ---
 
 [April 2022 Challenge](challenge-2022.04-apr/challenge-2022.04-apr.ipynb): Finding the way out of the maze  
-Release date: April 18th, 2022  
+
+---
+
+[July 2022 Challenge](challenge-2022.07-jul/challenge-2022.07-jul.ipynb): Palindrome Integer
