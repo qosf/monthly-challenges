@@ -7,7 +7,7 @@ A repository containing monthly challenges in the field of quantum computing.
 **[October 2022 Challenge](challenge-2022.10-oct/challenge-2022.10-oct.ipynb)** - Palindrome Integer
 
 **Release date**: October 15, 2022  
-**Submission deadline (optional):** November 15, 2022 
+**Submission deadline (optional):** November 4, 2022 
 
 You can see previous challenges [here](#previous-challenges).
 
