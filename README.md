@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[October 2022 Challenge](challenge-2022.10-oct/challenge-2022.10-oct.ipynb)** - Palindrome Integer
+**[February 2023 Challenge](challenge-2023.02-feb/challenge-2023.02-feb.ipynb)** - QOSF Mentorship Screening Tasks
 
-**Release date**: October 15, 2022  
-**Submission deadline (optional):** November 4, 2022 
+**Release date**: February 27, 2023
+**Submission deadline (optional):** March 27, 2023 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -156,3 +156,5 @@ Release date: March 2th, 2022
 ---
 
 [July 2022 Challenge](challenge-2022.07-jul/challenge-2022.07-jul.ipynb): Palindrome Integer
+
+[October 2022 Challenge](challenge-2022.10-oct/challenge-2022.10-oct.ipynb): Mentorship Screening Tasks
