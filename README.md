@@ -155,6 +155,8 @@ Release date: March 2th, 2022
 
 ---
 
-[July 2022 Challenge](challenge-2022.07-jul/challenge-2022.07-jul.ipynb): Palindrome Integer
+[July 2022 Challenge](challenge-2022.07-jul/challenge-2022.07-jul.ipynb): Palindrome Integer  
+
+---
 
 [October 2022 Challenge](challenge-2022.10-oct/challenge-2022.10-oct.ipynb): Mentorship Screening Tasks
