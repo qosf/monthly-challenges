@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[February 2023 Challenge](challenge-2023.02-feb/challenge-2023.02-feb.ipynb)** - QOSF Mentorship Screening Tasks
+**[March 2023 Challenge](challenge-2023.03-mar/challenge-2023.03-mar.ipynb)** - working with NISQ Devices using Mitiq
 
-**Release date**: February 27, 2023
-**Submission deadline (optional):** March 27, 2023 
+**Release date**: March 27, 2023
+**Submission deadline (optional):** April 27, 2023 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -160,3 +160,9 @@ Release date: March 2th, 2022
 ---
 
 [October 2022 Challenge](challenge-2022.10-oct/challenge-2022.10-oct.ipynb): Mentorship Screening Tasks
+
+---
+
+[February 2023 Challenge](challenge-2023.02-feb/challenge-2023.02-feb.ipynb): Mentorship Screening Tasks
+
+---
