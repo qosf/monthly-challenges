@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[March 2023 Challenge](challenge-2023.03-mar/challenge-2023.03-mar.ipynb)** - working with NISQ Devices using Mitiq
+**[April 2023 Challenge](challenge-2023.04-apr/challenge-2023.04-apr.ipynb)** - QUBO
 
-**Release date**: March 27, 2023
-**Submission deadline (optional):** April 27, 2023 
+**Release date**: April 28, 2023
+**Submission deadline (optional):** May 28, 2023 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -164,5 +164,9 @@ Release date: March 2th, 2022
 ---
 
 [February 2023 Challenge](challenge-2023.02-feb/challenge-2023.02-feb.ipynb): Mentorship Screening Tasks
+
+---
+
+[March 2023 Challenge](challenge-2023.03-mar/challenge-2023.03-mar.ipynb): Working with NISQ Devices using Mitiq
 
 ---
