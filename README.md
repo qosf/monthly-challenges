@@ -171,6 +171,6 @@ Release date: March 2th, 2022
 
 ---
 
-[September 2024 Challenge](challenge-2024.04-sep/challenge-2024.04-sep.ipynb): Sparse State-Preparation
+[September 2024 Challenge](challenge-2024.09-sep/challenge-2024.09-sep.ipynb): Sparse State-Preparation
 
 ---
