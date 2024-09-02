@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[April 2023 Challenge](challenge-2023.04-apr/challenge-2023.04-apr.ipynb)** - QUBO
+**[September 2024 Challenge](challenge-2024.09-sep/challenge-2024.09-sep.ipynb)** - Sparse State-Preparation
 
-**Release date**: April 28, 2023
-**Submission deadline (optional):** May 28, 2023 
+**Release date**: September 02, 2024
+**Submission deadline (optional):** October 02, 2024 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -168,5 +168,9 @@ Release date: March 2th, 2022
 ---
 
 [March 2023 Challenge](challenge-2023.03-mar/challenge-2023.03-mar.ipynb): Working with NISQ Devices using Mitiq
+
+---
+
+[September 2024 Challenge](challenge-2024.04-sep/challenge-2024.04-sep.ipynb): Sparse State-Preparation
 
 ---
