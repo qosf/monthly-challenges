@@ -174,3 +174,8 @@ Release date: March 2th, 2022
 [September 2024 Challenge](challenge-2024.09-sep/challenge-2024.09-sep.ipynb): Sparse State-Preparation
 
 ---
+
+[June 2025 Challenge](challenge_2025_10_jun/challenge_2025_10_jun.ipynb): Draper Adder with Mitiq ZNE  
+Release date: June 10th, 2025  
+
+---
