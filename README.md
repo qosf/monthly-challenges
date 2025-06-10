@@ -174,3 +174,7 @@ Release date: March 2th, 2022
 [September 2024 Challenge](challenge-2024.09-sep/challenge-2024.09-sep.ipynb): Sparse State-Preparation
 
 ---
+
+[June 2025 Challenge](challenge-2025.10-jun/challenge-2025.10-jun.ipynb): An Investigation into the Causes and Mitigation of Barren Plateaus in Variational Quantum Algorithms
+
+---
