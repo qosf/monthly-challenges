@@ -1,0 +1,6 @@
+# Core dependencies (the challenge runs with just these):
+numpy>=1.23
+matplotlib>=3.6
+qiskit>=1.0
+qiskit-aer>=0.13
+
