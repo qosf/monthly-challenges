@@ -4,10 +4,10 @@ A repository containing monthly challenges in the field of quantum computing.
 
 ## Current Challenge
 
-**[September 2024 Challenge](challenge-2024.09-sep/challenge-2024.09-sep.ipynb)** - Sparse State-Preparation
+**[June 2026 Challenge](challenge-2026.06-jun/challenge-2026.06-jun.ipynb)** - Quantum Graph Attention Networks: From Attention to QGAT
 
-**Release date**: September 02, 2024
-**Submission deadline (optional):** October 02, 2024 
+**Release date**: June 04, 2026
+**Submission deadline (optional):** July 04, 2026 
 
 You can see previous challenges [here](#previous-challenges).
 
@@ -181,5 +181,9 @@ Release date: March 2th, 2022
 
 
 [February 2026 Challenge](challenge-2026.02-feb/challenge-2026.02-feb.ipynb): Peaked Quantum Circuits: Exploring Verifiable Quantum Advantage
+
+---
+
+[June 2026 Challenge](challenge-2026.06-jun/challenge-2026.06-jun.ipynb): Quantum Graph Attention Networks: From Attention to QGAT
 
 ---
